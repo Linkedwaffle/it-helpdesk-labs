@@ -1,6 +1,6 @@
 # IT Helpdesk Lab
 
-Building an IT support environment from scratch — network design, Active Directory, ticketing systems, and documented incident workflows.
+Building an IT support environment from scratch  network design, Active Directory, ticketing systems, and documented incident workflows.
 
 This is a working portfolio, not a polished tutorial. Every lab includes real configs, verified results, and an honest log of what broke and how it got fixed.
 
@@ -10,8 +10,8 @@ This is a working portfolio, not a polished tutorial. Every lab includes real co
 
 | Section | Description | Status |
 |---------|-------------|--------|
-| [Networking Labs](networking/) | Cisco Packet Tracer — VLANs, routing, firewalls, switching | In Progress |
-| [Home Lab](home-lab/) | VirtualBox — Windows Server, Active Directory, osTicket | Coming Soon |
+| [Networking Labs](networking/) | Cisco Packet Tracer: VLANs, routing, firewalls, switching | In Progress |
+| [Home Lab](home-lab/) | VirtualBox: Windows Server, Active Directory, osTicket | Coming Soon |
 | [Incident Reports](incident-reports/) | Simulated helpdesk tickets with full resolution documentation | Coming Soon |
 
 ---
