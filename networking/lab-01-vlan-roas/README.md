@@ -6,6 +6,14 @@
 
 ---
 
+## Topology Diagram
+
+![Lab 01 Topology](topology.png)
+
+*4 VLANs, 8 PCs, 1 switch, 1 router — all inter-VLAN routing verified via ping.*
+
+---
+
 ## Objective
 
 Design a multi-department office network where each department operates on its own isolated subnet. A single router handles all inter-department routing using the Router-on-a-Stick (ROAS) method — one physical uplink from the router to the switch, carrying all VLANs via 802.1Q trunking, with logical subinterfaces handling each VLAN's traffic.
