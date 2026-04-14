@@ -7,7 +7,7 @@
 
 ## What's Being Built
 
-A simulated corporate IT environment running entirely on a single machine using virtual machines. The goal is to replicate what a real helpdesk technician works with daily — Active Directory for user management, a ticketing system for tracking issues, and a domain-joined workstation to troubleshoot against.
+A simulated corporate IT environment running entirely on a single machine using virtual machines. The goal is to replicate what a real helpdesk technician works with daily Active Directory for user management, a ticketing system for tracking issues, and a domain joined workstation to troubleshoot against.
 
 ---
 
