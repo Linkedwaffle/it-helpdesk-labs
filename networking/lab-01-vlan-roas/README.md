@@ -10,7 +10,7 @@
 
 ![Lab 01 Topology](topology.png)
 
-*4 VLANs, 8 PCs, 1 switch, 1 router — all inter-VLAN routing verified via ping.*
+*4 VLANs, 8 PCs, 1 switch, 1 router  all inter-VLAN routing verified via ping.*
 
 ---
 
